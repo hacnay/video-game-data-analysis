@@ -6,6 +6,8 @@ A Python-based exploratory data analysis project using a video game player datas
 
 This project examines the distribution of player hours and review scores, identifies potential outliers, and investigates the linear relationship between the two numerical variables.
 
+Report Link- https://docs.google.com/document/d/1GdQcHfH7QPKfuaeFGBZQ0MmWo7XKd-aYs_4vwWlbMto
+
 ## Dataset
 
 - **File:** `data/video_game_reviews.csv`
